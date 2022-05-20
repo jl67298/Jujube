@@ -83,7 +83,7 @@ li span span {
 }
 
 .topdiv {
-  background-image: url("yellowback.jpg");
+  background-image: url("/images/yellowback.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 80%;
